@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharanshgupta
-- 👀 I’m interested in learning system design for distributed environment.
+- 👀 I’m interested in learning system design for distributed ecosystem.
 - 🌱 I’m currently learning kotlin and micronaut
 - 📫 You can reach me here on github, on twitter at [@GuptaSharansh](https://twitter.com/GuptaSharansh) or on medium at [@sharanshgupta](https://medium.com/@sharanshgupta)
 
